@@ -1,5 +1,6 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="TodoList" />
+  <img src="https://user-images.githubusercontent.com/42776856/125129361-f626bd80-e11c-11eb-8b71-186debf29572.png" alt="TodoList" />
+
 
   &#xa0;
 
